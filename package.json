@@ -1,0 +1,28 @@
+{
+  "name": "feathers-query-stringify",
+  "version": "0.1.1",
+  "description": "Flattens an nested Feathers Query and can generate a url query string or a flattened query object from it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Feathers",
+    "FeathersJS",
+    "MongoDB",
+    "Flatten",
+    "Stringify",
+    "URL-Query"
+  ],
+  "author": "Adrian Jost <github@adrianjost.dev> (https://adrianjost.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^6.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "**/*"
+  ]
+}
