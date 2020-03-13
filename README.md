@@ -2,7 +2,7 @@
 
 This simple code snippet converts feathersJS query objects into an url query string that you can use to build your REST API calls.
 
-It can handle nestes Objects as well as Arrays.
+It can handle nested Objects as well as Arrays.
 
 ## Example
 
